@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/mabduqayum/storage/internal/storage"
+	"github.com/mabduqayum/storage/v2/internal/storage"
 	"log"
 )
 
