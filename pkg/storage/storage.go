@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"awesomeProject/internal/storage"
+	"github.com/mabduqayum/storage/internal/storage"
 )
 
 func NewStorage() *storage.Storage {

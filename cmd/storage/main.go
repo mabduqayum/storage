@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/mabduqayum/storage/internal/storage"
 	"log"
-	"storage/internal/storage"
 )
 
 func main() {
